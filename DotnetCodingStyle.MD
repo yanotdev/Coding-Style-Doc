@@ -4,7 +4,7 @@
 * Use camelCase for method parameters and local variables.
 * Use all caps with underscores for constants and static readonly fields.
 Indentation
-* Use 4 spaces for indentation, not tabs.
+* Use tabs for indentation.
 ## Spacing
 * Add a space between keywords and parentheses.
 * Add a space between the type and variable name when declaring variables.

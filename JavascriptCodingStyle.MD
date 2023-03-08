@@ -7,7 +7,7 @@
 * Use kebab-case for HTML attributes and CSS classes.
 
 ## Indentation
-* Use 2 spaces for indentation, not tabs.
+* Use tab for indentation.
 
 ## Spacing
 * Add a space between keywords and parentheses.
