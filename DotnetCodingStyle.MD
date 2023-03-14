@@ -4,7 +4,10 @@
 * Use camelCase for method parameters and local variables.
 * Use all caps with underscores for constants and static readonly fields.
 Indentation
+* Names of private, protected, internal and protected internal fields and properties: _camelCase.
 * Use tabs for indentation.
+* For casing, a “word” is anything written without internal spaces, including acronyms. For example, MyRpc instead of ~~MyRPC~~.
+* Names of interfaces start with I, e.g. IInterface.
 ## Spacing
 * Add a space between keywords and parentheses.
 * Add a space between the type and variable name when declaring variables.
